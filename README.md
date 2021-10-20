@@ -1,3 +1,5 @@
+![ANILOG sequencer screenshot](images/anilog12-titlestatic-1a.png)
+
 # ANILOG Demo Songs Open Source
 
 Welcome to the open source songs repository for the
